@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/login">
+
+    <EditText android:id="@+id/editText2"
+        android:layout_width="280dp"
+        android:layout_height="50dp"
+        android:inputType="textPassword"
+        android:hint="รหัสผ่าน"
+        android:layout_below="@+id/editText"
+        android:layout_centerHorizontal="true" />
+
+    <EditText android:id="@+id/editText3"
+        android:layout_width="280dp"
+        android:layout_height="50dp"
+        android:inputType="textCapWords"
+        android:hint="ชื่อ"
+        android:layout_below="@+id/editText7"
+        android:layout_centerHorizontal="true" />
+
+    <EditText android:id="@+id/editText4"
+        android:layout_width="280dp"
+        android:layout_height="50dp"
+        android:inputType="textCapWords"
+        android:hint="นามสกุล"
+        android:layout_below="@+id/editText3"
+        android:layout_centerHorizontal="true" />
+
+    <EditText
+        android:id="@+id/editText5"
+        android:layout_width="280dp"
+        android:layout_height="50dp"
+        android:inputType="textCapWords"
+        android:hint="อีเมล์"
+        android:layout_below="@+id/editText4"
+        android:layout_centerHorizontal="true" />
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="ยืนยันการลงทะเบียน"
+        android:id="@+id/btn_register"
+        android:background="#744123"
+        android:textColor="#ffffff"
+        android:textSize="18dp"
+        android:layout_below="@+id/editText5"
+        android:layout_alignRight="@+id/editText5"
+        android:layout_alignEnd="@+id/editText5"
+        android:layout_alignLeft="@+id/editText5"
+        android:layout_alignStart="@+id/editText5" />
+
+    <EditText
+        android:id="@+id/editText7"
+        android:layout_width="280dp"
+        android:layout_height="50dp"
+        android:inputType="textPassword"
+        android:hint="ระบุรหัสผ่านอีกครั้ง"
+        android:layout_below="@+id/editText2"
+        android:layout_centerHorizontal="true" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceSmall"
+        android:text="แตะภาพด้านบนเพื่ออัพโหลดรูปโปรไฟล์"
+        android:id="@+id/imageViewUpload"
+        android:textColor="#744123"
+        android:layout_gravity="center_horizontal"
+        android:layout_marginTop="15dp"
+        android:layout_below="@+id/imageViewToUpload"
+        android:layout_centerHorizontal="true" />
+
+    <EditText android:id="@+id/editText"
+        android:layout_width="280dp"
+        android:layout_height="50dp"
+        android:inputType="textCapWords"
+        android:hint="ชื่อผู้ใช้งาน"
+        android:layout_below="@+id/imageViewUpload"
+        android:layout_alignLeft="@+id/editText2"
+        android:layout_alignStart="@+id/editText2"
+        android:layout_marginTop="13dp" />
+
+    <android.support.v7.widget.AppCompatImageView
+        android:id="@+id/imageViewToUpload"
+        android:layout_gravity="center_horizontal"
+        android:scaleType="fitCenter"
+        android:src="@drawable/logologin"
+        android:layout_width="70dp"
+        android:layout_marginTop="31dp"
+        android:layout_height="70dp"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true" />
+
+
+</RelativeLayout>

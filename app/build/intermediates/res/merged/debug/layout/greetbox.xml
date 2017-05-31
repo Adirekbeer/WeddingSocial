@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/login">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <android.support.design.widget.AppBarLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:theme="@style/AppTheme.AppBarOverlay"
+            android:id="@+id/view">
+
+            <android.support.v7.widget.Toolbar
+                android:id="@+id/toolbar"
+                android:layout_width="match_parent"
+                android:layout_height="?attr/actionBarSize"
+                android:background="#744123"
+                app:popupTheme="@style/AppTheme.PopupOverlay" />
+
+        </android.support.design.widget.AppBarLayout>
+
+
+        <EditText
+            android:id="@+id/txt_greetbox"
+            android:inputType="textMultiLine"
+            android:hint="ระบุข้อความที่ท่านต้องการอวยพร"
+            android:layout_height="wrap_content"
+            android:layout_width="fill_parent"
+            android:layout_marginTop="73dp"
+            android:layout_below="@+id/view"
+            android:layout_alignLeft="@+id/btn_greetbox"
+            android:layout_alignStart="@+id/btn_greetbox"
+            android:layout_alignRight="@+id/btn_greetbox"
+            android:layout_alignEnd="@+id/btn_greetbox"
+            android:textColorLink="@color/colorAccent" />
+
+        <Button
+            android:layout_width="280dp"
+            android:layout_height="wrap_content"
+            android:text="แสดงข้อความที่อวยพร"
+            android:id="@+id/btn_ToListGreetbox"
+            android:textSize="18dp"
+            android:background="@android:color/transparent"
+            android:textColor="#744123"
+            android:enabled="true"
+            android:layout_marginBottom="101dp"
+            android:layout_alignParentBottom="true"
+            android:layout_alignLeft="@+id/btn_greetbox"
+            android:layout_alignStart="@+id/btn_greetbox" />
+
+        <Button
+            android:layout_width="280dp"
+            android:layout_height="wrap_content"
+            android:text="โพสต์คำอวยพร"
+            android:id="@+id/btn_greetbox"
+            android:background="#744123"
+            android:textColor="#ffffff"
+            android:textSize="18dp"
+            android:layout_above="@+id/btn_ToListGreetbox"
+            android:layout_centerHorizontal="true"
+            android:layout_marginBottom="12dp" />
+
+    </RelativeLayout>
+</LinearLayout>

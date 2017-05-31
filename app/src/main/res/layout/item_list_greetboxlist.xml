@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.v7.widget.CardView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:card_view="http://schemas.android.com/apk/res-auto"
+    android:layout_margin="8dp"
+    card_view:cardCornerRadius="1dp"
+    card_view:cardElevation="4dp"
+    card_view:contentPaddingLeft="0dp"
+    card_view:contentPaddingRight="0dp"
+    android:layout_gravity="center_horizontal"
+    android:layout_centerHorizontal="true"
+    android:layout_width="match_parent"
+    android:layout_height="260dp">
+
+    <!-- cardUseCompatPadding ใช้เว้นระยะห่างแต่ละอัน -->
+
+    <RelativeLayout
+        android:background="#e7985f"
+        android:layout_height="match_parent"
+        android:layout_width="match_parent">
+
+        <TextView
+            android:id="@+id/greet_text"
+            android:textColor="#222"
+            android:lineSpacingExtra="1dp"
+            android:text="คำอวยพร"
+            android:layout_height="wrap_content"
+            android:ellipsize="end"
+            android:maxLines="6"
+            android:textAppearance="?attr/textAppearanceListItem"
+            android:textSize="17dp"
+            android:layout_width="wrap_content"
+            android:layout_marginTop="16dp"
+            android:layout_alignParentTop="true"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentStart="true"
+            android:layout_marginLeft="15dp"
+            android:layout_marginStart="15dp"
+            android:layout_toStartOf="@+id/imageToUpload_greetlist"
+            android:layout_alignRight="@+id/imageToUpload_greetlist"
+            android:layout_alignEnd="@+id/imageToUpload_greetlist" />
+
+        <TextView
+            android:id="@+id/greet_username"
+            android:layout_height="wrap_content"
+            android:maxLines="3"
+            android:padding="8dp"
+            android:text="ชื่อผู้ใช้งาน"
+            android:textColor="#222"
+            android:textSize="17dp"
+            android:layout_width="200dp"
+            android:layout_alignBottom="@+id/imageToUpload_greetlist"
+            android:layout_alignLeft="@+id/greet_text"
+            android:layout_alignStart="@+id/greet_text" />
+
+        <com.example.android.weddingsocial.RoundedImageView
+            android:id="@+id/imageToUpload_greetlist"
+            android:scaleType="fitCenter"
+            android:src="@drawable/logologin"
+            android:layout_width="50dp"
+            android:layout_height="50dp"
+            android:layout_marginRight="22dp"
+            android:layout_marginEnd="22dp"
+            android:layout_marginBottom="20dp"
+            android:layout_above="@+id/imageButton3"
+            android:layout_alignParentRight="true"
+            android:layout_alignParentEnd="true" />
+
+        <View
+            android:layout_width="fill_parent"
+            android:layout_height="2dp"
+            android:background="#ffffff"
+            android:layout_above="@+id/imageButton3"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentStart="true" />
+
+        <ImageButton
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            card_view:srcCompat="@drawable/bin"
+            android:id="@+id/imageButton3"
+            android:layout_alignParentBottom="true"
+            android:layout_alignRight="@+id/imageToUpload_greetlist"
+            android:layout_alignEnd="@+id/imageToUpload_greetlist" />
+
+    </RelativeLayout>
+
+</android.support.v7.widget.CardView>

@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "D:\\WeddingSocialApplication\\WeddingSocial\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi\\ic_launcher.png",
+        "source": "D:\\WeddingSocialApplication\\WeddingSocial\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\WeddingSocialApplication\\WeddingSocial\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi\\round_corner_progress_icon.png",
+        "source": "C:\\Users\\Adirek\\.android\\build-cache\\d56938c46da1d2fcec2311a3e12ca2843d40b221\\output\\res\\mipmap-hdpi\\round_corner_progress_icon.png"
+    },
+    {
+        "merged": "D:\\Git_Android\\WeddingSocial\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi\\round_corner_progress_icon.png",
+        "source": "C:\\Users\\Adirek\\.android\\build-cache\\d56938c46da1d2fcec2311a3e12ca2843d40b221\\output\\res\\mipmap-hdpi\\round_corner_progress_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\Adirek\\AndroidStudioProjects\\WeddingSocial\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi\\round_corner_progress_icon.png",
+        "source": "C:\\Users\\Adirek\\AndroidStudioProjects\\WeddingSocial\\app\\build\\intermediates\\exploded-aar\\com.akexorcist\\RoundCornerProgressBar\\2.0.3\\res\\mipmap-hdpi\\round_corner_progress_icon.png"
+    },
+    {
+        "merged": "D:\\Git_Android\\WeddingSocial\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi\\ic_launcher.png",
+        "source": "D:\\Git_Android\\WeddingSocial\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Adirek\\AndroidStudioProjects\\WeddingSocial\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi\\ic_launcher.png",
+        "source": "C:\\Users\\Adirek\\AndroidStudioProjects\\WeddingSocial\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    }
+]

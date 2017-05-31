@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "C:\\Users\\Adirek\\AndroidStudioProjects\\WeddingSocial\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\common_ic_googleplayservices.png",
+        "source": "C:\\Users\\Adirek\\AndroidStudioProjects\\WeddingSocial\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.4.0\\res\\drawable-ldpi-v4\\common_ic_googleplayservices.png"
+    },
+    {
+        "merged": "D:\\Git_Android\\WeddingSocial\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\common_ic_googleplayservices.png",
+        "source": "C:\\Users\\Adirek\\.android\\build-cache\\0a6b5880948a033278417a6043b84eed0aa66fe6\\output\\res\\drawable-ldpi-v4\\common_ic_googleplayservices.png"
+    },
+    {
+        "merged": "D:\\WeddingSocialApplication\\WeddingSocial\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\common_ic_googleplayservices.png",
+        "source": "C:\\Users\\Adirek\\.android\\build-cache\\0a6b5880948a033278417a6043b84eed0aa66fe6\\output\\res\\drawable-ldpi-v4\\common_ic_googleplayservices.png"
+    }
+]

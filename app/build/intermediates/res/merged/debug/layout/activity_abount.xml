@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/welcome">
+
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <android.support.design.widget.AppBarLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:theme="@style/AppTheme.AppBarOverlay"
+            android:id="@+id/view">
+
+            <android.support.v7.widget.Toolbar
+                android:id="@+id/toolbar"
+                android:layout_width="match_parent"
+                android:layout_height="?attr/actionBarSize"
+                android:background="#744123"
+                app:popupTheme="@style/AppTheme.PopupOverlay" />
+
+        </android.support.design.widget.AppBarLayout>
+
+        <Button
+            android:layout_width="280dp"
+            android:layout_height="wrap_content"
+            android:text="กิจกรรมสุ่มผู้โชคดี"
+            android:id="@+id/btn_give"
+            android:background="#744123"
+            android:textColor="#ffffff"
+            android:textSize="18dp"
+            android:layout_marginBottom="203dp"
+            android:layout_alignParentBottom="true"
+            android:layout_centerHorizontal="true" />
+
+        <Button
+            android:layout_width="280dp"
+            android:layout_height="wrap_content"
+            android:text="กิจกรรมตอบคำถาม"
+            android:id="@+id/btn_question"
+            android:background="#744123"
+            android:textColor="#ffffff"
+            android:textSize="18dp"
+            android:layout_marginTop="71dp"
+            android:layout_alignTop="@+id/btn_give"
+            android:layout_alignLeft="@+id/btn_give"
+            android:layout_alignStart="@+id/btn_give" />
+
+    </RelativeLayout>
+</LinearLayout>

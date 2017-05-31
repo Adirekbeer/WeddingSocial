@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/person"
+            android:icon="@drawable/personn"
+            android:tint="@color/button_grey"
+            android:title="ดูรายชื่อแขกภายในงาน" />
+        <item
+            android:id="@+id/greetbox"
+            android:icon="@drawable/greet"
+            android:tint="@color/button_grey"
+            android:title="กล่องอวยพร" />
+        <item
+            android:id="@+id/postbox"
+            android:icon="@drawable/postgroup"
+            android:tint="@color/button_grey"
+            android:title="โพสต์ภายในงาน" />
+        <item
+            android:id="@+id/activity_abount"
+            android:icon="@drawable/post"
+            android:tint="@color/button_grey"
+            android:title="กิจกรรมภายในงาน" />
+        <item
+            android:id="@+id/abount_event"
+            android:icon="@drawable/clipboard"
+            android:tint="@color/button_grey"
+            android:title="กำหนดการณ์ภายในงาน" />
+    </group>
+
+    <item android:title="เกี่ยวกับระบบ">
+        <menu>
+            <item
+                android:icon="@drawable/listname"
+                android:tint="@color/button_grey"
+                android:title="หน้าแรก" />
+            <item
+                android:id="@+id/profile"
+                android:icon="@drawable/profile_user"
+                android:tint="@color/button_grey"
+                android:title="โปรไฟล์ส่วนตัว" />
+            <item
+                android:icon="@drawable/logout_"
+                android:tint="@color/button_grey"
+                android:title="ออกจากระบบ" />
+        </menu>
+    </item>
+
+</menu>

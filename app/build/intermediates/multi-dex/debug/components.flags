@@ -1,0 +1,190 @@
+-injars 'C:\Users\Adirek\AndroidStudioProjects\WeddingSocial\app\build\intermediates\transforms\jarMerging\debug\jars\1\1f\combined.jar'
+-outjars 'C:\Users\Adirek\AndroidStudioProjects\WeddingSocial\app\build\intermediates\multi-dex\debug\componentClasses.jar'
+
+-libraryjars 'D:\SDK\build-tools\23.0.1\lib\shrinkedAndroid.jar'
+
+-forceprocessing
+-dontoptimize
+-dontobfuscate
+-dontusemixedcaseclassnames
+-dontpreverify
+-dontnote **
+-dontwarn **
+-printconfiguration 'C:\Users\Adirek\AndroidStudioProjects\WeddingSocial\app\build\intermediates\multi-dex\debug\components.flags'
+
+
+-keep class android.support.multidex.MultiDexApplication {
+    <init>();
+    void attachBaseContext(android.content.Context);
+}
+
+-keep class com.example.android.weddingsocial.WeddingMain {
+    <init>();
+}
+
+-keep class com.example.android.weddingsocial.login {
+    <init>();
+}
+
+-keep class com.example.android.weddingsocial.Key {
+    <init>();
+}
+
+-keep class com.example.android.weddingsocial.register {
+    <init>();
+}
+
+-keep class com.example.android.weddingsocial.edit_profile {
+    <init>();
+}
+
+-keep class com.example.android.weddingsocial.Abount_event {
+    <init>();
+}
+
+-keep class com.example.android.weddingsocial.Abount_activity {
+    <init>();
+}
+
+-keep class com.example.android.weddingsocial.Greet_box {
+    <init>();
+}
+
+-keep class com.example.android.weddingsocial.Post_box {
+    <init>();
+}
+
+-keep class com.example.android.weddingsocial.MainActivity {
+    <init>();
+}
+
+-keep class com.example.android.weddingsocial.Namelist_Recycle {
+    <init>();
+}
+
+-keep class com.example.android.weddingsocial.MapActivity {
+    <init>();
+}
+
+-keep class com.example.android.weddingsocial.Schedule {
+    <init>();
+}
+
+-keep class com.example.android.weddingsocial.RandomUser {
+    <init>();
+}
+
+-keep class com.example.android.weddingsocial.FeedEventActivity {
+    <init>();
+}
+
+-keep class com.example.android.weddingsocial.FeedGreetboxActivity {
+    <init>();
+}
+
+-keep class com.example.android.weddingsocial.FeedPostboxActivity {
+    <init>();
+}
+
+-keep class com.google.android.gms.ads.AdActivity {
+    <init>();
+}
+
+-keep class com.google.android.gms.ads.purchase.InAppPurchaseActivity {
+    <init>();
+}
+
+-keep class com.google.android.gms.common.api.GoogleApiActivity {
+    <init>();
+}
+
+-keep class com.google.android.gms.appinvite.PreviewActivity {
+    <init>();
+}
+
+-keep class com.google.android.gms.auth.api.signin.internal.SignInHubActivity {
+    <init>();
+}
+
+-keep class com.google.android.gms.auth.api.signin.RevocationBoundService {
+    <init>();
+}
+
+-keep class com.google.android.gms.cast.framework.media.MediaIntentReceiver {
+    <init>();
+}
+
+-keep class com.google.android.gms.cast.framework.media.MediaNotificationService {
+    <init>();
+}
+
+-keep class com.google.android.gms.cast.framework.ReconnectionService {
+    <init>();
+}
+
+-keep class com.google.firebase.iid.FirebaseInstanceIdReceiver {
+    <init>();
+}
+
+-keep class com.google.firebase.iid.FirebaseInstanceIdInternalReceiver {
+    <init>();
+}
+
+-keep class com.google.firebase.iid.FirebaseInstanceIdService {
+    <init>();
+}
+
+-keep class com.google.firebase.provider.FirebaseInitProvider {
+    <init>();
+}
+
+-keep class com.google.firebase.crash.internal.service.FirebaseCrashReceiverService {
+    <init>();
+}
+
+-keep class com.google.firebase.crash.internal.service.FirebaseCrashSenderService {
+    <init>();
+}
+
+-keep class com.google.android.gms.measurement.AppMeasurementReceiver {
+    <init>();
+}
+
+-keep class com.google.android.gms.measurement.AppMeasurementService {
+    <init>();
+}
+
+-keep class com.google.firebase.messaging.FirebaseMessagingService {
+    <init>();
+}
+
+-keep class com.google.android.gms.tagmanager.TagManagerService {
+    <init>();
+}
+
+-keep class com.google.android.gms.tagmanager.TagManagerPreviewActivity {
+    <init>();
+}
+
+-keep public class * extends android.app.Instrumentation {
+    <init>();
+}
+
+-keep public class * extends android.app.Application {
+    <init>();
+    void attachBaseContext(android.content.Context);
+}
+
+-keep public class * extends android.app.backup.BackupAgent {
+    <init>();
+}
+
+-keep public class * extends java.lang.annotation.Annotation {
+    <fields>;
+    <methods>;
+}
+
+-keep class com.android.tools.fd.** {
+    <fields>;
+    <methods>;
+}

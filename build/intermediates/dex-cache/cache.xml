@@ -1,0 +1,626 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\Adirek\AndroidStudioProjects\WeddingSocial\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-safetynet\9.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="7bc6ea2bcfd6de4b7085e0f3a01616c5c8e0e2ad">
+        <dex dex="C:\Users\Adirek\AndroidStudioProjects\WeddingSocial\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-safetynet-9.4.0_0803f41166039e4312a3b55527353ac95be965f3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Adirek\AndroidStudioProjects\WeddingSocial\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics\9.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="ba47b210d36301e237ccfea860eaada04590f12a">
+        <dex dex="C:\Users\Adirek\AndroidStudioProjects\WeddingSocial\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-analytics-9.4.0_d76dbd2176c4833bca46440beb8149cc6f9bdeec\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Adirek\AndroidStudioProjects\WeddingSocial\app\build\intermediates\exploded-aar\com.google.firebase\firebase-auth-module\9.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="6bc41d9d6fd12d2ef23c785a259011001f4a1a5b">
+        <dex dex="C:\Users\Adirek\AndroidStudioProjects\WeddingSocial\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-auth-module-9.4.0_7611902bac826b6f4e5e3b39d93fb19565626503\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Adirek\AndroidStudioProjects\WeddingSocial\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wearable\9.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="b1acf13f1b7d8232af78a30833f9a966d1394c84">
+        <dex dex="C:\Users\Adirek\AndroidStudioProjects\WeddingSocial\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-wearable-9.4.0_77e9146011118229359c18dc2772bd54ceff2d91\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Adirek\AndroidStudioProjects\WeddingSocial\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics\9.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="88848548ab56d4fbf3d2d1b0c85bf1ff9b4c1f4b">
+        <dex dex="C:\Users\Adirek\AndroidStudioProjects\WeddingSocial\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-analytics-9.4.0_4fd3d9647b86448333ed8e3eb7fcf8549f5b2971\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Adirek\AndroidStudioProjects\WeddingSocial\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="5491aaa1b3b57fa0f7bc1607871d9bfd56af4e4b">
+        <dex dex="C:\Users\Adirek\AndroidStudioProjects\WeddingSocial\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_5e0d6e163a0b76bce219353d85154f5df14dda58\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Adirek\AndroidStudioProjects\WeddingSocial\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-identity\9.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="5e04c0b3683ca45b343284d93e5594b5f9044551">
+        <dex dex="C:\Users\Adirek\AndroidStudioProjects\WeddingSocial\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-identity-9.4.0_46f3aef73fdb778d0bd2d55e70fc36d7a9981993\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Adirek\AndroidStudioProjects\WeddingSocial\app\build\intermediates\exploded-aar\com.google.firebase\firebase-crash\9.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="b9d48baf96c7e187991a9befa833bebd181960a9">
+        <dex dex="C:\Users\Adirek\AndroidStudioProjects\WeddingSocial\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-crash-9.4.0_7620a8f000e78f9f0f396360a11a709322b82791\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Adirek\AndroidStudioProjects\WeddingSocial\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-cast-framework\9.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="03829a2618892d438a1f59c6286699ca1f476e93">
+        <dex dex="C:\Users\Adirek\AndroidStudioProjects\WeddingSocial\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-cast-framework-9.4.0_3d279a7a5a41320122e220e5e88c7b22f77854b0\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Adirek\AndroidStudioProjects\WeddingSocial\app\build\intermediates\exploded-aar\com.google.firebase\firebase-messaging\9.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="4b6d9b70f93bbeb872d0948bc064ae3f3f2bcbac">
+        <dex dex="C:\Users\Adirek\AndroidStudioProjects\WeddingSocial\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-messaging-9.4.0_9c85f5aab878d77d9d1a931424811d34fac9908d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Adirek\AndroidStudioProjects\WeddingSocial\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-games\9.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="e6e2251f3d3abf4eecd6bf6919d41fc7af497852">
+        <dex dex="C:\Users\Adirek\AndroidStudioProjects\WeddingSocial\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-games-9.4.0_cdae89f4144c562a3f1dbfe9660126240b83c391\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Adirek\AndroidStudioProjects\WeddingSocial\app\build\intermediates\exploded-aar\com.google.firebase\firebase-common\9.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="18b5697c65c4fe5b7381613b8b8ae9ac52e26fa7">
+        <dex dex="C:\Users\Adirek\AndroidStudioProjects\WeddingSocial\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-common-9.4.0_bdda36376acdad1d9d991dd8619abc871b570160\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Adirek\AndroidStudioProjects\WeddingSocial\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="618485fef3ebe12127f7622abbc9b5b39057b5c2">
+        <dex dex="C:\Users\Adirek\AndroidStudioProjects\WeddingSocial\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-basement-9.4.0_084718fb1c929edce94cef2712f5c0cc66ceee9b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Adirek\AndroidStudioProjects\WeddingSocial\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="de4db3785756bfb0915a9f59a9b3f2fea7407be4">
+        <dex dex="C:\Users\Adirek\AndroidStudioProjects\WeddingSocial\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-23.4.0_a136b82b4cbdfb6335b4d97b9bda291786ded353\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Adirek\AndroidStudioProjects\WeddingSocial\app\build\intermediates\exploded-aar\com.android.support\mediarouter-v7\23.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="d358b3dd49a7c67844622dcbc9cf4339e13952ce">
+        <dex dex="C:\Users\Adirek\AndroidStudioProjects\WeddingSocial\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-mediarouter-v7-23.0.0_c63d6c39766cba841db1f2baf3966f5c161359aa\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Adirek\AndroidStudioProjects\WeddingSocial\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="ec75036c3c52e451d0cde50a5aedaf5fd32354a0">
+        <dex dex="C:\Users\Adirek\AndroidStudioProjects\WeddingSocial\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-recyclerview-v7-23.4.0_d26a5499475a1f3967b7c018784b503ed0db14ac\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Adirek\AndroidStudioProjects\WeddingSocial\app\build\intermediates\exploded-aar\com.google.firebase\firebase-storage\9.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="98e97da89d4df8e2f6eba63498d3d46a587372f2">
+        <dex dex="C:\Users\Adirek\AndroidStudioProjects\WeddingSocial\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-storage-9.4.0_0d18749ff257cd3153e312a15cabbc2b1aca3003\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Adirek\AndroidStudioProjects\WeddingSocial\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\9.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="e454c414a069241ee08444d187f2dd3a702596b5">
+        <dex dex="C:\Users\Adirek\AndroidStudioProjects\WeddingSocial\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-maps-9.4.0_34486adb43779f4b6dbb2b1681c10b9a36fce201\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Adirek\AndroidStudioProjects\WeddingSocial\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics-impl\9.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="0ad33eb600f3d80bdff5ce355c90d5533ade652a">
+        <dex dex="C:\Users\Adirek\AndroidStudioProjects\WeddingSocial\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-analytics-impl-9.4.0_74b6b768ec730a14e011b5de0f8d6110e7b69e70\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Adirek\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\okhttp\3.2.0\f7873a2ebde246a45c2a8d6f3247108b4c88a879\okhttp-3.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="f7873a2ebde246a45c2a8d6f3247108b4c88a879">
+        <dex dex="C:\Users\Adirek\AndroidStudioProjects\WeddingSocial\app\build\intermediates\transforms\dex\debug\folders\1000\10\okhttp-3.2.0_7f22d4521d83e614aeddef05b05198427f6d6463\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Adirek\AndroidStudioProjects\WeddingSocial\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tagmanager-api\9.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="7ea53c4458b80e8ea71f7fd6831fa184c501377b">
+        <dex dex="C:\Users\Adirek\AndroidStudioProjects\WeddingSocial\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-tagmanager-api-9.4.0_41a27a9764e2a416ca95c60e7fff06b0477d2324\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Adirek\AndroidStudioProjects\WeddingSocial\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-gcm\9.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="ece40b09e9d4d488bc270cf6af5a9af73bc1cfa3">
+        <dex dex="C:\Users\Adirek\AndroidStudioProjects\WeddingSocial\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-gcm-9.4.0_a20f86c9d088d5cabf86475333935f1336a4b8f2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Adirek\.gradle\caches\modules-2\files-2.1\com.squareup.picasso\picasso\2.5.2\7446d06ec8d4f7ffcc53f1da37c95f200dcb9387\picasso-2.5.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="7446d06ec8d4f7ffcc53f1da37c95f200dcb9387">
+        <dex dex="C:\Users\Adirek\AndroidStudioProjects\WeddingSocial\app\build\intermediates\transforms\dex\debug\folders\1000\10\picasso-2.5.2_cb4491bb6b1a80776666dcbeb1c46428e2e80418\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Adirek\AndroidStudioProjects\WeddingSocial\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\9.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="3dee4ce5844d39d843d503fb8fe04e51e5bfffac">
+        <dex dex="C:\Users\Adirek\AndroidStudioProjects\WeddingSocial\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-base-9.4.0_d26e877edec8374491b51bfbd488867f7d3a7365\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Adirek\AndroidStudioProjects\WeddingSocial\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics-impl\9.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="a440fb3fec30ff925e9f601cc458fb6671834cb2">
+        <dex dex="C:\Users\Adirek\AndroidStudioProjects\WeddingSocial\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-analytics-impl-9.4.0_ab1eeaf8eb3582978abbeb10a02a5a7075167411\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Adirek\AndroidStudioProjects\WeddingSocial\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\jars\libs\internal_impl-23.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
+        <dex dex="C:\Users\Adirek\AndroidStudioProjects\WeddingSocial\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-23.4.0_6612f93d5a485e8a4f11047c3f41371fb619d90a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Adirek\AndroidStudioProjects\WeddingSocial\app\build\intermediates\exploded-aar\com.google.firebase\firebase-iid\9.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="3b7173b3df4c7029699919414400041f64519e34">
+        <dex dex="C:\Users\Adirek\AndroidStudioProjects\WeddingSocial\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-iid-9.4.0_6a79fd518791d12ee46451cb8b1565da43e7ed98\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Adirek\.gradle\caches\modules-2\files-2.1\com.squareup.okio\okio\1.6.0\98476622f10715998eacf9240d6b479f12c66143\okio-1.6.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="98476622f10715998eacf9240d6b479f12c66143">
+        <dex dex="C:\Users\Adirek\AndroidStudioProjects\WeddingSocial\app\build\intermediates\transforms\dex\debug\folders\1000\10\okio-1.6.0_16853f4bbcbd2607ead1879a8be442de2d5f69e1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Adirek\AndroidStudioProjects\WeddingSocial\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads\9.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="d463d8eec1e6c1feef2cec6675ccb47e37c12ee1">
+        <dex dex="C:\Users\Adirek\AndroidStudioProjects\WeddingSocial\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-ads-9.4.0_0388d435a6512190407707124355924419cd5a67\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Adirek\.gradle\caches\modules-2\files-2.1\com.jakewharton\butterknife\7.0.1\d5d13ea991eab0252e3710e5df3d6a9d4b21d461\butterknife-7.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="d5d13ea991eab0252e3710e5df3d6a9d4b21d461">
+        <dex dex="C:\Users\Adirek\AndroidStudioProjects\WeddingSocial\app\build\intermediates\transforms\dex\debug\folders\1000\10\butterknife-7.0.1_364d06955b89890ab20e71663c9552e6e32e1a3f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Adirek\AndroidStudioProjects\WeddingSocial\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="155695ca8ae9197dd8deb28b81991e0206afd9ad">
+        <dex dex="C:\Users\Adirek\AndroidStudioProjects\WeddingSocial\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_1233d845b9b685b336b474273366045d5cf312dc\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Adirek\AndroidStudioProjects\WeddingSocial\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-location\9.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="0b060160e7daee343f5315b3da91b0ff2d7eed89">
+        <dex dex="C:\Users\Adirek\AndroidStudioProjects\WeddingSocial\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-location-9.4.0_161ac2f60aad92e2214a9d75738e70a1a38a7745\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Adirek\AndroidStudioProjects\WeddingSocial\app\build\intermediates\exploded-aar\com.google.firebase\firebase-auth-common\9.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="34762013d39dbe6c656050589c44e8b61b9a2c5d">
+        <dex dex="C:\Users\Adirek\AndroidStudioProjects\WeddingSocial\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-auth-common-9.4.0_f801f4f8c73b49c01d1ae021bf7f3a7636a55cd1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Adirek\AndroidStudioProjects\WeddingSocial\app\build\intermediates\exploded-aar\com.akexorcist\RoundCornerProgressBar\2.0.3\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="88c6386ad8356b89487b43bcaae4827b1abe999c">
+        <dex dex="C:\Users\Adirek\AndroidStudioProjects\WeddingSocial\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.akexorcist-RoundCornerProgressBar-2.0.3_06bc95b7b24cefe129998638be6f57629e0fbebd\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Adirek\AndroidStudioProjects\WeddingSocial\app\build\intermediates\exploded-aar\com.android.support\cardview-v7\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="d9ecde39b460470e655de6e47c05573d2d5a8bfb">
+        <dex dex="C:\Users\Adirek\AndroidStudioProjects\WeddingSocial\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-cardview-v7-23.4.0_38e8174ed3e7ab23ff8c45f6d591712e11e4d5b4\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Adirek\AndroidStudioProjects\WeddingSocial\app\build\intermediates\exploded-aar\com.google.firebase\firebase-auth\9.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="4b630471536351be7c3c3100735c75b7ad2cbd84">
+        <dex dex="C:\Users\Adirek\AndroidStudioProjects\WeddingSocial\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-auth-9.4.0_715970e96d3e2afd205a94c6386a26cf01f01830\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Adirek\AndroidStudioProjects\WeddingSocial\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="548f06de403a9409f00554b3ee12a9fdea0e236c">
+        <dex dex="C:\Users\Adirek\AndroidStudioProjects\WeddingSocial\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-23.4.0_afe9a37af4b6a050c0b45e21097b78c3b959ac2a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Adirek\AndroidStudioProjects\WeddingSocial\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-clearcut\9.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="dd763e0269f2854f5828ae62dd968b80bff6a0db">
+        <dex dex="C:\Users\Adirek\AndroidStudioProjects\WeddingSocial\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-clearcut-9.4.0_18c565c5eb7014c6c64db4df7b5f35167494f55e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Adirek\AndroidStudioProjects\WeddingSocial\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-contextmanager\9.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="72eacac37fc64e95d53abd2a041bf81a952d8615">
+        <dex dex="C:\Users\Adirek\AndroidStudioProjects\WeddingSocial\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-contextmanager-9.4.0_7eb182cd91a3a2034ed542ed9c9000bc0b0effee\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Adirek\AndroidStudioProjects\WeddingSocial\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-iid\9.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="59a16a4a42d25b2c243dd1e8aea87d06895b4a06">
+        <dex dex="C:\Users\Adirek\AndroidStudioProjects\WeddingSocial\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-iid-9.4.0_4a42b33df1127b8c6fb1890fe6fccbf9aa92caca\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Adirek\AndroidStudioProjects\WeddingSocial\app\build\intermediates\exploded-aar\com.android.support\mediarouter-v7\23.0.0\jars\libs\internal_impl-23.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="03d38bb042efe3e5ce27ba66b729a9523c36d8fe">
+        <dex dex="C:\Users\Adirek\AndroidStudioProjects\WeddingSocial\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-23.0.0_da4f0f5e92bc18cc62fe51dd01677be41caec2b7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Adirek\AndroidStudioProjects\WeddingSocial\app\build\intermediates\exploded-aar\com.android.support\design\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="5326d9a850d491714fef8cbfaa9ea3416f0bf0d2">
+        <dex dex="C:\Users\Adirek\AndroidStudioProjects\WeddingSocial\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-design-23.4.0_0357768fbcda765a3bc231d000f046df8b107e42\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Adirek\AndroidStudioProjects\WeddingSocial\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-gass\9.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="b15f898c9047f9d612a63000126b485dd024eaac">
+        <dex dex="C:\Users\Adirek\AndroidStudioProjects\WeddingSocial\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-gass-9.4.0_d5eb27c4ec3eb50a30ab6cf439d1698a7b7270de\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Adirek\AndroidStudioProjects\WeddingSocial\app\build\intermediates\exploded-aar\com.google.firebase\firebase-storage-common\9.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="c8f5d56f8f8a287c95e02c542baade138a378048">
+        <dex dex="C:\Users\Adirek\AndroidStudioProjects\WeddingSocial\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-storage-common-9.4.0_6097e10326d757b67f4962362decd1bdbd61f501\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Adirek\AndroidStudioProjects\WeddingSocial\app\build\intermediates\exploded-aar\com.google.firebase\firebase-database-connection\9.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="0e4d53465cc141bec58f18a894e4c4e80633fa32">
+        <dex dex="C:\Users\Adirek\AndroidStudioProjects\WeddingSocial\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-database-connection-9.4.0_7e64cfa26a44d24b569f4fc2d7658ceaf78a0563\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Adirek\AndroidStudioProjects\WeddingSocial\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-vision\9.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="670df81539ab71918d49b186598b7eff08ef6563">
+        <dex dex="C:\Users\Adirek\AndroidStudioProjects\WeddingSocial\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-vision-9.4.0_ceca3c6350e5372681927289431db4b29452c523\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\SDK\extras\android\m2repository\com\android\support\support-annotations\23.4.0\support-annotations-23.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="ffbe55fdb2bb456b1485831706a9eac3300bb6b8">
+        <dex dex="C:\Users\Adirek\AndroidStudioProjects\WeddingSocial\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-23.4.0_5129f8bde69b8e9f927fc544f89ecaf4d60c953a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Adirek\AndroidStudioProjects\WeddingSocial\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-fitness\9.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="8197651ce1af4d89b47f4545cc720bc4f8611e7d">
+        <dex dex="C:\Users\Adirek\AndroidStudioProjects\WeddingSocial\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-fitness-9.4.0_acdbb0924a33de346e5a4eb9b8c0846476c2475f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Adirek\AndroidStudioProjects\WeddingSocial\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-nearby\9.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="461e4257888c25ec05abcd91e758fe7f4949230a">
+        <dex dex="C:\Users\Adirek\AndroidStudioProjects\WeddingSocial\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-nearby-9.4.0_ec2b08f36552cbc1e5d07c75a82e29ad686e6217\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Adirek\.gradle\caches\modules-2\files-2.1\com.google.code.gson\gson\2.6.2\f1bc476cc167b18e66c297df599b2377131a8947\gson-2.6.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="f1bc476cc167b18e66c297df599b2377131a8947">
+        <dex dex="C:\Users\Adirek\AndroidStudioProjects\WeddingSocial\app\build\intermediates\transforms\dex\debug\folders\1000\10\gson-2.6.2_44a509737b47a4502f544c5dd613f8ca12a72c47\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Adirek\AndroidStudioProjects\WeddingSocial\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-cast\9.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="a432629397351d3ec7f27a23d258b229b81af08f">
+        <dex dex="C:\Users\Adirek\AndroidStudioProjects\WeddingSocial\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-cast-9.4.0_da2c80d860e06b9596ea03da20a84efe47878a3b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Adirek\AndroidStudioProjects\WeddingSocial\app\build\intermediates\exploded-aar\com.android.support\multidex\1.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="78ea232052df889856dcb7b7b542707c89bb3bfb">
+        <dex dex="C:\Users\Adirek\AndroidStudioProjects\WeddingSocial\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-multidex-1.0.1_79859d9535a88b0da9272d82599cfd9b8dd2881d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Adirek\AndroidStudioProjects\WeddingSocial\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tagmanager\9.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="e5e8e535d15834e824817bdf5370556f62b4b2a5">
+        <dex dex="C:\Users\Adirek\AndroidStudioProjects\WeddingSocial\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-tagmanager-9.4.0_07e293b6586f60ea01a6f644c9665de3f2098dbb\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Adirek\.gradle\caches\modules-2\files-2.1\org.jbundle.util.osgi.wrapped\org.jbundle.util.osgi.wrapped.org.apache.http.client\4.1.2\98c86e42679fe7ac066f6c242e0d14f0bce0bb7c\org.jbundle.util.osgi.wrapped.org.apache.http.client-4.1.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="98c86e42679fe7ac066f6c242e0d14f0bce0bb7c">
+        <dex dex="C:\Users\Adirek\AndroidStudioProjects\WeddingSocial\app\build\intermediates\transforms\dex\debug\folders\1000\10\org.jbundle.util.osgi.wrapped.org.apache.http.client-4.1.2_b2fd052671a9f2204e6c26a553a1537d3046aeb2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Adirek\AndroidStudioProjects\WeddingSocial\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wallet\9.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="954697ee6ea7bdd596babf4f70e8b7a17ca7649e">
+        <dex dex="C:\Users\Adirek\AndroidStudioProjects\WeddingSocial\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-wallet-9.4.0_de7857c0c4033f735aa5130771c487bb64602175\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Adirek\AndroidStudioProjects\WeddingSocial\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="c2c594cace5d83a3227b2b6e658ecbfd586d3ed9">
+        <dex dex="C:\Users\Adirek\AndroidStudioProjects\WeddingSocial\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-23.4.0_e0a04b949ba0899d2367c3dac257e8b23ae0c4df\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Adirek\AndroidStudioProjects\WeddingSocial\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-places\9.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="e35002351f2d415093a9b564652d4b56be6a0593">
+        <dex dex="C:\Users\Adirek\AndroidStudioProjects\WeddingSocial\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-places-9.4.0_bb85f23edd360c82d4a5a22a58be1c36829128b4\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Adirek\AndroidStudioProjects\WeddingSocial\app\build\intermediates\exploded-aar\com.google.firebase\firebase-config\9.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="dab6944860c986980dcc6002a5ca2f127b587317">
+        <dex dex="C:\Users\Adirek\AndroidStudioProjects\WeddingSocial\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-config-9.4.0_280afe45b9b6c4532c72455f9ac9ef01f31c58ec\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Adirek\AndroidStudioProjects\WeddingSocial\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-plus\9.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="dd51b31890731591729f046d7a09c4fe4e483ed1">
+        <dex dex="C:\Users\Adirek\AndroidStudioProjects\WeddingSocial\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-plus-9.4.0_018e0c7542147f4e3a8105d48c53952b46aab730\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Adirek\AndroidStudioProjects\WeddingSocial\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tasks\9.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="8a36d229011e75f0caef408e1adf0d3fd4d94e02">
+        <dex dex="C:\Users\Adirek\AndroidStudioProjects\WeddingSocial\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-tasks-9.4.0_d4726cb395a39052b4087974997a80a37e499aee\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Adirek\AndroidStudioProjects\WeddingSocial\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appinvite\9.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="736d8893fb702f128a153c9d87c9c29724d37872">
+        <dex dex="C:\Users\Adirek\AndroidStudioProjects\WeddingSocial\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-appinvite-9.4.0_f780b4a2867ab10fbe3a584375a54e364ad2c465\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Adirek\AndroidStudioProjects\WeddingSocial\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads-lite\9.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="147edbec6bcea71fd675ecc63cae3319637ec2b4">
+        <dex dex="C:\Users\Adirek\AndroidStudioProjects\WeddingSocial\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-ads-lite-9.4.0_f43dffedb21bbab51d4dfe345b6775d09e48ba2f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Adirek\AndroidStudioProjects\WeddingSocial\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appindexing\9.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="c10df7344e31161852c20bb8143fc37319aa10ec">
+        <dex dex="C:\Users\Adirek\AndroidStudioProjects\WeddingSocial\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-appindexing-9.4.0_c4df51f20052a41f773471e13a9f6522361b97b9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Adirek\AndroidStudioProjects\WeddingSocial\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-auth\9.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="4348dd26d83b56c2058b768222c3271bce911724">
+        <dex dex="C:\Users\Adirek\AndroidStudioProjects\WeddingSocial\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-auth-9.4.0_735788f1a92a34d0169ba614a3ddb20377357a3e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Adirek\AndroidStudioProjects\WeddingSocial\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
+        <dex dex="C:\Users\Adirek\AndroidStudioProjects\WeddingSocial\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-23.4.0_fe1f5aafad249bd2552ae56e9765ab3216ad243d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Adirek\AndroidStudioProjects\WeddingSocial\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-panorama\9.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="d49118ba67a101c4895f0581f17142cba85b330b">
+        <dex dex="C:\Users\Adirek\AndroidStudioProjects\WeddingSocial\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-panorama-9.4.0_bfca896d5cabb8fa45b1bf4d471082d867b7ab51\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Adirek\AndroidStudioProjects\WeddingSocial\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-auth-base\9.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="58c9f5ee817fdb8b658fd7455fadfb74119f7ee9">
+        <dex dex="C:\Users\Adirek\AndroidStudioProjects\WeddingSocial\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-auth-base-9.4.0_eabdd65174702c0addaa444e61ef0bb11b3d0ac8\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Adirek\AndroidStudioProjects\WeddingSocial\app\build\intermediates\exploded-aar\com.google.firebase\firebase-database\9.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="84bf369090a8f7e293817efbd6ccf31ada1be32b">
+        <dex dex="C:\Users\Adirek\AndroidStudioProjects\WeddingSocial\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-database-9.4.0_c2847b86866a4befcaeda21f1d04694e66d9fbfe\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Adirek\AndroidStudioProjects\WeddingSocial\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-drive\9.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="8ce5e7a4a146dddd1d9e66b09c714a6c149916d8">
+        <dex dex="C:\Users\Adirek\AndroidStudioProjects\WeddingSocial\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-drive-9.4.0_7f531bca19e3be5751e18e06f984bd5020a19647\classes.dex" />
+    </item>
+
+</items>

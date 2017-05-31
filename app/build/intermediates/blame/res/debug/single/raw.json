@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "C:\\Users\\Adirek\\AndroidStudioProjects\\WeddingSocial\\app\\build\\intermediates\\res\\merged\\debug\\raw\\gtm_analytics",
+        "source": "C:\\Users\\Adirek\\AndroidStudioProjects\\WeddingSocial\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-analytics-impl\\9.4.0\\res\\raw\\gtm_analytics"
+    },
+    {
+        "merged": "D:\\Git_Android\\WeddingSocial\\app\\build\\intermediates\\res\\merged\\debug\\raw\\gtm_analytics",
+        "source": "C:\\Users\\Adirek\\.android\\build-cache\\525cbd71ba3d0938ee82d085d6ca085876434e9e\\output\\res\\raw\\gtm_analytics"
+    },
+    {
+        "merged": "D:\\WeddingSocialApplication\\WeddingSocial\\app\\build\\intermediates\\res\\merged\\debug\\raw\\gtm_analytics",
+        "source": "C:\\Users\\Adirek\\.android\\build-cache\\525cbd71ba3d0938ee82d085d6ca085876434e9e\\output\\res\\raw\\gtm_analytics"
+    }
+]

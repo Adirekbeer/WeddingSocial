@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/login">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <android.support.design.widget.AppBarLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:theme="@style/AppTheme.AppBarOverlay"
+            android:id="@+id/view">
+
+            <android.support.v7.widget.Toolbar
+                android:id="@+id/toolbar"
+                android:layout_width="match_parent"
+                android:layout_height="?attr/actionBarSize"
+                android:background="#744123"
+                app:popupTheme="@style/AppTheme.PopupOverlay" />
+
+        </android.support.design.widget.AppBarLayout>
+
+
+        <Button
+            android:layout_width="280dp"
+            android:layout_height="wrap_content"
+            android:text="แสดงโพสต์ภายในงาน"
+            android:id="@+id/btn_ToListpostbox"
+            android:textSize="18dp"
+            android:background="@android:color/transparent"
+            android:textColor="#744123"
+            android:enabled="true"
+            android:layout_marginBottom="65dp"
+            android:layout_alignParentBottom="true"
+            android:layout_centerHorizontal="true" />
+
+        <Button
+            android:layout_width="250dp"
+            android:layout_height="wrap_content"
+            android:text="โพสต์"
+            android:id="@+id/btn_postbox"
+            android:background="#744123"
+            android:textColor="#ffffff"
+            android:textSize="18dp"
+            android:layout_above="@+id/btn_ToListpostbox"
+            android:layout_toLeftOf="@+id/imageButton"
+            android:layout_alignLeft="@+id/btn_ToListpostbox"
+            android:layout_alignStart="@+id/btn_ToListpostbox" />
+
+        <ImageButton
+            android:layout_width="wrap_content"
+            app:srcCompat="@drawable/ic_menu_camera"
+            android:id="@+id/imageButton"
+            android:layout_height="wrap_content"
+            android:layout_alignRight="@+id/btn_ToListpostbox"
+            android:layout_alignEnd="@+id/btn_ToListpostbox"
+            android:layout_alignTop="@+id/btn_postbox"
+            android:layout_above="@+id/btn_ToListpostbox" />
+
+        <ImageView
+            app:srcCompat="@drawable/noimage"
+            android:src="@drawable/noimage"
+            android:id="@+id/imageView_postbox"
+            android:layout_width="250dp"
+            android:layout_height="180dp"
+            android:layout_marginTop="14dp"
+            android:layout_below="@+id/view"
+            android:layout_centerHorizontal="true" />
+
+        <EditText
+            android:id="@+id/txt_postbox"
+            android:inputType="textMultiLine"
+            android:hint="ระบุข้อความที่ท่านต้องโพสต์"
+            android:layout_height="wrap_content"
+            android:layout_width="fill_parent"
+            android:textColorLink="@color/colorAccent"
+            android:layout_centerVertical="true"
+            android:layout_alignLeft="@+id/btn_postbox"
+            android:layout_alignStart="@+id/btn_postbox"
+            android:layout_alignRight="@+id/imageButton"
+            android:layout_alignEnd="@+id/imageButton" />
+
+    </RelativeLayout>
+</LinearLayout>

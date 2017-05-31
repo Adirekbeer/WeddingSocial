@@ -1,0 +1,38 @@
+[
+    {
+        "merged": "D:\\Git_Android\\WeddingSocial\\app\\build\\intermediates\\res\\merged\\debug\\menu\\main.xml",
+        "source": "D:\\Git_Android\\WeddingSocial\\app\\src\\main\\res\\menu\\main.xml"
+    },
+    {
+        "merged": "D:\\WeddingSocialApplication\\WeddingSocial\\app\\build\\intermediates\\res\\merged\\debug\\menu\\main.xml",
+        "source": "D:\\WeddingSocialApplication\\WeddingSocial\\app\\src\\main\\res\\menu\\main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Adirek\\AndroidStudioProjects\\WeddingSocial\\app\\build\\intermediates\\res\\merged\\debug\\menu\\main.xml",
+        "source": "C:\\Users\\Adirek\\AndroidStudioProjects\\WeddingSocial\\app\\src\\main\\res\\menu\\main.xml"
+    },
+    {
+        "merged": "D:\\WeddingSocialApplication\\WeddingSocial\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu_event.xml",
+        "source": "D:\\WeddingSocialApplication\\WeddingSocial\\app\\src\\main\\res\\menu\\menu_event.xml"
+    },
+    {
+        "merged": "D:\\WeddingSocialApplication\\WeddingSocial\\app\\build\\intermediates\\res\\merged\\debug\\menu\\activity_main_drawer.xml",
+        "source": "D:\\WeddingSocialApplication\\WeddingSocial\\app\\src\\main\\res\\menu\\activity_main_drawer.xml"
+    },
+    {
+        "merged": "C:\\Users\\Adirek\\AndroidStudioProjects\\WeddingSocial\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu_event.xml",
+        "source": "C:\\Users\\Adirek\\AndroidStudioProjects\\WeddingSocial\\app\\src\\main\\res\\menu\\menu_event.xml"
+    },
+    {
+        "merged": "D:\\Git_Android\\WeddingSocial\\app\\build\\intermediates\\res\\merged\\debug\\menu\\activity_main_drawer.xml",
+        "source": "D:\\Git_Android\\WeddingSocial\\app\\src\\main\\res\\menu\\activity_main_drawer.xml"
+    },
+    {
+        "merged": "D:\\Git_Android\\WeddingSocial\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu_event.xml",
+        "source": "D:\\Git_Android\\WeddingSocial\\app\\src\\main\\res\\menu\\menu_event.xml"
+    },
+    {
+        "merged": "C:\\Users\\Adirek\\AndroidStudioProjects\\WeddingSocial\\app\\build\\intermediates\\res\\merged\\debug\\menu\\activity_main_drawer.xml",
+        "source": "C:\\Users\\Adirek\\AndroidStudioProjects\\WeddingSocial\\app\\src\\main\\res\\menu\\activity_main_drawer.xml"
+    }
+]

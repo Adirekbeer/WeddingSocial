@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/login">
+
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <android.support.design.widget.AppBarLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:theme="@style/AppTheme.AppBarOverlay"
+            android:id="@+id/view">
+
+            <android.support.v7.widget.Toolbar
+                android:id="@+id/toolbar"
+                android:layout_width="match_parent"
+                android:layout_height="?attr/actionBarSize"
+                android:background="#744123"
+                app:popupTheme="@style/AppTheme.PopupOverlay" />
+    </android.support.design.widget.AppBarLayout>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textAppearance="?android:attr/textAppearanceMedium"
+            android:text="รายชื่อผู้โชคดีที่ได้รับของรางวัล"
+            android:textSize="23dp"
+            android:id="@+id/textView4"
+            android:textColor="#744123"
+            android:layout_marginTop="64dp"
+            android:layout_below="@+id/view"
+            android:layout_centerHorizontal="true" />
+
+        <com.example.android.weddingsocial.RoundedImageView
+            android:layout_width="80dp"
+            android:layout_height="80dp"
+            android:id="@+id/imageView_random"
+            android:src="@drawable/logologin"
+            android:layout_marginTop="28dp"
+            android:layout_below="@+id/textView4"
+            android:layout_centerHorizontal="true" />
+
+        <Button
+            android:layout_height="wrap_content"
+            android:text="กดเพื่อสุ่มรายชื่อผู้โชคดี"
+            android:id="@+id/btn_random_user"
+            android:onClick="random"
+            android:background="#744123"
+            android:textColor="#ffffff"
+            android:textSize="18dp"
+            android:layout_width="200dp"
+            android:layout_marginTop="100dp"
+            android:layout_below="@+id/lbl_random_user"
+            android:layout_centerHorizontal="true" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textAppearance="?android:attr/textAppearanceMedium"
+            android:hint="ยังไม่มีรายชื่อ"
+            android:id="@+id/lbl_random_user"
+            android:textColor="#744123"
+            android:textSize="23dp"
+            android:layout_centerVertical="true"
+            android:layout_centerHorizontal="true" />
+
+
+    </RelativeLayout>
+</LinearLayout>
